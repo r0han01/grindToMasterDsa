@@ -57,7 +57,7 @@ While working on these problems, I occasionally utilize tools like ChatGPT, Grok
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/r0han01) for discussions, collaborations, or any queries related to this repository.
 ###
-![ScreenShot Tool -20250425213744 (1)](https://github.com/user-attachments/assets/395bdc63-453c-4023-bd34-106404be8f57)
+![ScreenShot Tool -20250425213744 (2)](https://github.com/user-attachments/assets/f542af5f-7ade-4227-a088-33d61395e1fa)
 
 ---
 

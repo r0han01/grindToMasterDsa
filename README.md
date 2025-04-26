@@ -4,13 +4,13 @@ Welcome to my curated collection of LeetCode solutions implemented in Python. Th
 
 ---
 
-## 📚 About the Course
+## About the Course
 
 I'm currently enrolled in the [DSA with Python](https://tutedude.com/category/dsawithpython) course offered by [TuteDude](https://tutedude.com/), an IIT Delhi alumni initiative. The platform emphasizes commitment by offering a **100% refund upon course completion**, ensuring learners stay motivated.
 
 ---
 
-## 📈 Progress Tracker
+## Progress Tracker
 
 | Module No. | Module Title                        | Status       |
 |------------|-------------------------------------|--------------|
@@ -31,7 +31,7 @@ I'm currently enrolled in the [DSA with Python](https://tutedude.com/category/ds
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 Each module will have its dedicated directory containing:
 
@@ -41,19 +41,19 @@ Each module will have its dedicated directory containing:
 
 ---
 
-## 🤖 Acknowledgments
+## Acknowledgments
 
 While working on these problems, I occasionally utilize tools like ChatGPT, Grok, and DeepSeek for guidance and to enhance my understanding. These tools assist in clarifying concepts, debugging, and exploring alternative solutions.
 
 ---
 
-## 📸 Learning Platform Snapshot
+## Learning Platform Snapshot
 
 ![ScreenShot Tool -20250425213505](https://github.com/user-attachments/assets/640a4a96-9953-4999-97fc-11c6206f3338)
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/r0han01) for discussions, collaborations, or any queries related to this repository.
 ###

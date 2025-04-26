@@ -49,9 +49,7 @@ While working on these problems, I occasionally utilize tools like ChatGPT, Grok
 
 ## 📸 Learning Platform Snapshot
 
-![TuteDude DSA with Python](https://tutedude.com/category/dsawithpython) ([My Hackathon Journey with TuteDude ...](https://www.linkedin.com/pulse/from-concept-creation-my-hackathon-journey-tutedude-dikondawar-fuaaf?utm_source=chatgpt.com))
-
-*Screenshot of the TuteDude "DSA with Python" course page.* ([Guaranteed Internship | TuteDude ...](https://www.youtube.com/watch?v=S-p0-KXjk6M&utm_source=chatgpt.com))
+![ScreenShot Tool -20250425213505](https://github.com/user-attachments/assets/640a4a96-9953-4999-97fc-11c6206f3338)
 
 ---
 

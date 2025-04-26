@@ -25,7 +25,7 @@ I'm currently enrolled in the [DSA with Python](https://tutedude.com/category/ds
 | Module 9   | Graphs                              | ⏳ Pending   |
 | Module 10  | Greedy Algorithms                   | ⏳ Pending   |
 | Module 11  | Backtracking and Dynamic Programming| ⏳ Pending   |
-| Module 12  | Number Theory                       | ⏳ Pending   | ([Markdown - PyPI](https://pypi.org/project/Markdown/?utm_source=chatgpt.com))
+| Module 12  | Number Theory                       | ⏳ Pending   | 
 
 *Note: This table will be updated regularly to reflect ongoing progress.*
 
@@ -37,7 +37,7 @@ Each module will have its dedicated directory containing:
 
 - Python solutions to relevant problems.
 - Detailed explanations and comments for clarity.
-- Additional resources or notes as needed. ([GitHub - corey-richardson/course-progress-tracker: A Flask web ...](https://github.com/corey-richardson/course-progress-tracker?utm_source=chatgpt.com), [Rich is a Python library for rich text and beautiful formatting in the ...](https://pythonrepo.com/repo/willmcgugan-rich-python-generating-and-working-with-logs?utm_source=chatgpt.com))
+- Additional resources or notes as needed.
 
 ---
 
@@ -55,7 +55,10 @@ While working on these problems, I occasionally utilize tools like ChatGPT, Grok
 
 ## 📬 Connect with Me
 
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for discussions, collaborations, or any queries related to this repository.
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/r0han01) for discussions, collaborations, or any queries related to this repository.
+###
+![ScreenShot Tool -20250425213744](https://github.com/user-attachments/assets/68501404-4f20-4357-8e28-115fc17981b4)
+
 
 ---
 

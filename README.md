@@ -6,7 +6,7 @@ Welcome to my curated collection of LeetCode solutions implemented in Python. Th
 
 ## 📚 About the Course
 
-I'm currently enrolled in the [DSA with Python](https://tutedude.com/category/dsawithpython) course offered by [TuteDude](https://tutedude.com/), an IIT Delhi alumni initiative. The platform emphasizes commitment by offering a **100% refund upon course completion**, ensuring learners stay motivated. ([DSA with Python Course – Enhance Your ...](https://tutedude.com/category/dsawithpython?utm_source=chatgpt.com))
+I'm currently enrolled in the [DSA with Python](https://tutedude.com/category/dsawithpython) course offered by [TuteDude](https://tutedude.com/), an IIT Delhi alumni initiative. The platform emphasizes commitment by offering a **100% refund upon course completion**, ensuring learners stay motivated.
 
 ---
 

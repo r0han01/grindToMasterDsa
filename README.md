@@ -61,8 +61,54 @@ Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com
 
 ---
 
-*Happy Coding!*
+## 📚 Learning Pathway Recommendation (For Tutedude DSA Learners)
+
+If you are following the DSA course from **Tutedude**, I highly recommend using this roadmap for a structured and professional learning journey:
+
+### 🚀 Step-by-Step Learning Roadmap
+
+1. **Master Python Basics**  
+   - Focus on flowcharts, variables, conditionals, loops, recursion, lists, strings, and dictionaries.
+   - Solve ~30 Easy problems on LeetCode (`Array`, `String`, `Math` tags).
+
+2. **Crack Array, String, and Sorting Algorithms**  
+   - Learn patterns like Kadane’s Algorithm, 2SUM/3SUM, KMP, QuickSort, MergeSort.
+   - Solve ~50 Easy/Medium LeetCode problems (`Sliding Window`, `Two Pointers`, `Sorting` tags).
+
+3. **Understand OOPS Concepts**  
+   - Constructors, Inheritance, Polymorphism, Encapsulation, and Dunder Methods.
+   - Practice basic `Design` problems like LRU Cache, Min Stack.
+
+4. **Master Linked Lists, Stacks, and Queues**  
+   - Implement them manually.
+   - Solve ~30–40 problems (e.g., Reverse Linked List, Cycle Detection, Trapping Rainwater).
+
+5. **Deep Dive into Trees and Heaps**  
+   - Focus on Traversals, Views, Construction, BSTs, and Heap operations.
+   - Solve ~50 problems (`Tree`, `BST`, `Heap` tags).
+
+6. **Conquer Graph Algorithms**  
+   - DFS, BFS, Dijkstra, Kruskal, Floyd-Warshall, Topological Sort.
+   - Solve ~40–50 graph problems (`Graph`, `Union Find`, `Shortest Path`).
+
+7. **Learn Greedy, Backtracking, and Dynamic Programming**  
+   - Solve major optimization problems (e.g., N-Queens, Knapsack, Coin Change, Longest Subsequence).
+
+8. **Strengthen Number Theory Basics**  
+   - Sieve of Eratosthenes, GCD, Modular Arithmetic, Binary Exponentiation.
+
+### 🏆 Final Goal
+- Solve 300–500 problems across different topics.
+- Focus daily on 1 Easy + 1 Medium problem for consistency.
+- Gradually move into solving `Hard` problems once you're comfortable.
+
+---
+> 🔥 Tip: Always understand the **concept first**, then practice a few **pattern-based problems** before moving ahead. Depth > Speed.
 
 ---
 
+Happy Learning and All the Best! 🚀
+
 Let me know if you'd like any further customization or additions to this `README.md`. 
+
+

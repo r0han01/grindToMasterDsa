@@ -112,3 +112,15 @@ Happy Learning and All the Best! 🚀
 Let me know if you'd like any further customization or additions to this `README.md`. 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/r0han01/leetcode-python-dsa/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/r0han01/leetcode-python-dsa/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

@@ -119,8 +119,13 @@ Let me know if you'd like any further customization or additions to this `README
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/r0han01/leetcode-python-dsa/tree/master/0001-two-sum) |
+| [0792-binary-search](https://github.com/r0han01/leetcode-python-dsa/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/r0han01/leetcode-python-dsa/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/r0han01/leetcode-python-dsa/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->

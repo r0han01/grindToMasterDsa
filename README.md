@@ -2,9 +2,10 @@
 
 # grind To Master Data Structures & Algorithms  
 Learning, practicing, and improving my Data Structures & Algorithms skills in Python.
+</div>
 
 
-## 📊 Progress
+## 📊 What I am Learning ?
 
 | 🧩 Module | 📘 Title | 🚀 Status |
 |:--:|:--|:--:|
@@ -22,4 +23,3 @@ Learning, practicing, and improving my Data Structures & Algorithms skills in Py
 | 12 | Number Theory | ⏳ Pending |
 
 - *Currently learning through TuteDude’s “DSA with Python” course and logging progress here.*
-</div>

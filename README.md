@@ -1,4 +1,4 @@
-# LeetCode Python DSA 🚀
+# grindToMasterDsa
 
 Welcome to my curated collection of LeetCode solutions implemented in Python. This repository serves as a personal log of my journey through mastering Data Structures and Algorithms (DSA), complemented by structured learning from TuteDude's "DSA with Python" course.
 

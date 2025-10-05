@@ -12,24 +12,25 @@ This repository documents my ongoing journey to strengthen problem-solving skill
 
 ---
 
-## Progress Tracker
+## 📊 Progress Tracker
 
-| Module No. | Module Title                        | Status       |
-|------------|-------------------------------------|--------------|
-| Module 1   | Introduction                        | ✅ Completed |
-| Module 2   | Basics of Programming in Python     | ✅ Completed |
-| Module 3   | Array and String Algorithms         | 🔄 In Progress |
-| Module 4   | Sorting and Complexities            | ⏳ Pending   |
-| Module 5   | Object-Oriented Programming (OOP)   | ⏳ Pending   |
-| Module 6   | Linked Lists                        | ⏳ Pending   |
-| Module 7   | Stacks and Queues                   | ⏳ Pending   |
-| Module 8   | Trees (BSTs and Heaps)              | ⏳ Pending   |
-| Module 9   | Graphs                              | ⏳ Pending   |
-| Module 10  | Greedy Algorithms                   | ⏳ Pending   |
-| Module 11  | Backtracking and Dynamic Programming| ⏳ Pending   |
-| Module 12  | Number Theory                       | ⏳ Pending   | 
+| 🧩 Module | 📘 Title | 🚀 Status |
+|:--:|:--|:--:|
+| 1 | Introduction | ✅ Completed |
+| 2 | Basics of Programming in Python | ✅ Completed |
+| 3 | Array & String Algorithms | 🔄 In Progress |
+| 4 | Sorting & Complexities | ⏳ Pending |
+| 5 | Object-Oriented Programming (OOP) | ⏳ Pending |
+| 6 | Linked Lists | ⏳ Pending |
+| 7 | Stacks & Queues | ⏳ Pending |
+| 8 | Trees (BSTs & Heaps) | ⏳ Pending |
+| 9 | Graphs | ⏳ Pending |
+| 10 | Greedy Algorithms | ⏳ Pending |
+| 11 | Backtracking & Dynamic Programming | ⏳ Pending |
+| 12 | Number Theory | ⏳ Pending |
 
-*Note: This table will be updated regularly to reflect ongoing progress.*
+> 💡 *This tracker updates as I move through each module.*
+
 
 ---
 

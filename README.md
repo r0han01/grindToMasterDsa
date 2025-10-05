@@ -109,25 +109,29 @@ If you are following the DSA course from **Tutedude**, I highly recommend using 
 
 ---
 
-Happy Learning and All the Best! 🚀
+<div align="center">
 
-Let me know if you'd like any further customization or additions to this `README.md`. 
+## 💡 LeetCode Topics
 
+### Array
+| Problem |
+|----------|
+| [0001 - Two Sum](https://github.com/r0han01/grindToMasterDsa/tree/master/0001-two-sum) |
+| [0792 - Binary Search](https://github.com/r0han01/grindToMasterDsa/tree/master/0792-binary-search) |
 
+### Hash Table
+| Problem |
+|----------|
+| [0001 - Two Sum](https://github.com/r0han01/grindToMasterDsa/tree/master/0001-two-sum) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/r0han01/leetcode-python-dsa/tree/master/0001-two-sum) |
-| [0792-binary-search](https://github.com/r0han01/leetcode-python-dsa/tree/master/0792-binary-search) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/r0han01/leetcode-python-dsa/tree/master/0001-two-sum) |
-## Binary Search
-|  |
-| ------- |
-| [0792-binary-search](https://github.com/r0han01/leetcode-python-dsa/tree/master/0792-binary-search) |
-<!---LeetCode Topics End-->
+### Binary Search
+| Problem |
+|----------|
+| [0792 - Binary Search](https://github.com/r0han01/grindToMasterDsa/tree/master/0792-binary-search) |
+
+---
+
+✨ Thanks for checking out my repo!  
+If you’re on a similar learning path — keep going, stay consistent, and enjoy the process. 💪
+
+</div>

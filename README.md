@@ -1,12 +1,14 @@
-# grindToMasterDsa
+<div align="center">
 
-Welcome to my curated collection of LeetCode solutions implemented in Python. This repository serves as a personal log of my journey through mastering Data Structures and Algorithms (DSA), complemented by structured learning from TuteDude's "DSA with Python" course.
+# 🧠 grindToMasterDsa 🚀  
+*A personal journey of learning, practicing, and mastering Data Structures & Algorithms with Python.*
 
 ---
 
-## About the Course
+Welcome to my curated collection of **LeetCode** solutions written in **Python**.  
+This repository documents my ongoing journey to strengthen problem-solving skills and master **Data Structures and Algorithms (DSA)** — guided by structured learning from **TuteDude’s “DSA with Python”** course.
 
-I'm currently enrolled in the [DSA with Python](https://tutedude.com/category/dsawithpython) course offered by [TuteDude](https://tutedude.com/), an IIT Delhi alumni initiative. The platform emphasizes commitment by offering a **100% refund upon course completion**, ensuring learners stay motivated.
+</div>
 
 ---
 

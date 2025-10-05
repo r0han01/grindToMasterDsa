@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 grindToMasterDsa 🚀  
+#### 🧠 Grind To Master Data Structures & Algorithms  
 *A personal journey of learning, practicing, and mastering Data Structures & Algorithms with Python.*
 
 ---

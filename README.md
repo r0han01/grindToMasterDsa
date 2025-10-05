@@ -8,8 +8,6 @@
 Welcome to my curated collection of **LeetCode** solutions written in **Python**.  
 This repository documents my ongoing journey to strengthen problem-solving skills and master **Data Structures and Algorithms (DSA)** — guided by structured learning from **TuteDude’s “DSA with Python”** course.
 
-</div>
-
 ---
 
 ## 📊 Progress Tracker
@@ -61,6 +59,8 @@ While working on these problems, I occasionally utilize tools like ChatGPT, Grok
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/r0han01) for discussions, collaborations, or any queries related to this repository.
 ###
 ![ScreenShot Tool -20250425213744 (2)](https://github.com/user-attachments/assets/f542af5f-7ade-4227-a088-33d61395e1fa)
+
+</div>
 
 ---
 
